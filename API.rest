@@ -1,0 +1,5 @@
+GET http://localhost:3000/
+
+###
+
+DELETE http://localhost:3000/6090e83766b74a2ab227cd9f
